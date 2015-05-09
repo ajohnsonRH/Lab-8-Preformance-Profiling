@@ -23,7 +23,6 @@ public class Game {
 		frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 		frame.setResizable(true);
-		
 	} 
 
 }
